@@ -1,0 +1,5 @@
+17:25:32.089  === start ===
+17:25:32.112  assemblies loaded, apartment=STA
+17:25:34.215  addtype compiled
+17:25:34.430  form created, registered=True
+17:25:34.434  entering message loop
