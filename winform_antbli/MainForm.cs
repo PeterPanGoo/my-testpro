@@ -400,7 +400,7 @@ namespace winform_antbli
             card.Controls.Add(trendTag);
             return card;
         }
-
+    //what
         static Color Blend(Color a, Color b, float t)
         {
             return Color.FromArgb(
