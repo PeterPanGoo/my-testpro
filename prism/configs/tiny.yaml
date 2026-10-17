@@ -1,0 +1,20 @@
+# Documentation/configuration example. The code has no YAML dependency;
+# construct PrismConfig with the same values in Python.
+image_channels: 3
+geometry_channels: 4
+patch_size: 8
+semantic_dim: 32
+appearance_dim: 24
+geometry_dim: 24
+model_dim: 64
+heads: 4
+what_layers: 2
+where_layers: 2
+cross_layers: 1
+ffn_multiplier: 2
+output_queries: 16
+output_dim: 4
+dropout: 0.0
+max_patches: 256
+apr_mask_ratio: 0.25
+focal_gamma: 2.0

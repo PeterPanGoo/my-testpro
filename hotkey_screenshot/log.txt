@@ -3,3 +3,8 @@
 17:25:34.215  addtype compiled
 17:25:34.430  form created, registered=True
 17:25:34.434  entering message loop
+21:58:06.816  message loop exited
+10:21:25.531  === start ===
+10:21:25.596  assemblies loaded, apartment=STA
+16:32:39.838  === start ===
+16:32:39.884  assemblies loaded, apartment=STA

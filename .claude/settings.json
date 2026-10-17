@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(powershell.exe -NoProfile -ExecutionPolicy Bypass -File \"C:\\\\Users\\\\LPH18\\\\AppData\\\\Local\\\\Temp\\\\pc_diag.ps1\")"
+    ]
+  }
+}
